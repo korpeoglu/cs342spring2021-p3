@@ -9,7 +9,7 @@
 int main()
 {
     
-    sbmem_init(8192); 
+    sbmem_init(32768); 
 
     printf ("memory segment is created and initialized \n");
 
